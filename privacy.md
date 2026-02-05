@@ -1,0 +1,54 @@
+Privacy Policy
+
+Effective Date: 2026-02-05
+
+1. Introduction
+
+TTDL (“the App”, “we”, “our”, “us”) respects your privacy. This Privacy Policy explains how information is handled when you use the App.
+
+2. Information We Do Not Collect
+
+We do not collect personal information such as:
+	•	Names, email addresses, or contact details
+	•	Account credentials
+	•	Payment or billing information
+
+All subscription payments are processed by Apple.
+
+3. Information Processed by the App
+
+The App processes the following data locally on your device:
+	•	TikTok content URLs you provide
+	•	Downloaded media files
+	•	App preferences and settings
+
+This data is not transmitted to our servers unless you explicitly share it.
+
+4. Subscriptions
+
+Subscriptions are handled by Apple through the App Store. We do not have access to your payment details. Apple may provide anonymous subscription status information to enable app functionality.
+
+5. Analytics and Diagnostics
+
+The App may use Apple-provided analytics and crash reporting. This data is aggregated and does not identify you.
+
+6. Third-Party Services
+
+The App accesses publicly available TikTok content only through URLs you provide. We are not affiliated with TikTok and do not control their services or privacy practices.
+
+7. Children’s Privacy
+
+The App is suitable for all ages (4+). We do not knowingly collect personal data from children.
+
+8. Data Retention
+
+All data is stored locally on your device and remains until you delete it or remove the App.
+
+9. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Continued use of the App constitutes acceptance of the updated policy.
+
+10. Contact
+
+For privacy-related questions, contact us at:
+support@ttdl.app
