@@ -9,18 +9,18 @@ TTDL (“the App”, “we”, “our”, “us”) respects your privacy. This 
 2. Information We Do Not Collect
 
 We do not collect personal information such as:
-	•	Names, email addresses, or contact details
-	•	Account credentials
-	•	Payment or billing information
+	• Names, email addresses, or contact details
+	• Account credentials
+	• Payment or billing information
 
 All subscription payments are processed by Apple.
 
 3. Information Processed by the App
 
 The App processes the following data locally on your device:
-	•	TikTok content URLs you provide
-	•	Downloaded media files
-	•	App preferences and settings
+	• TikTok content URLs you provide
+	• Downloaded media files
+	• App preferences and settings
 
 This data is not transmitted to our servers unless you explicitly share it.
 
