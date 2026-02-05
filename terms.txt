@@ -9,10 +9,10 @@ TTDL (“the App”, “we”, “our”, “us”) provides tools for downloadi
 2. Acceptable Use
 
 You agree not to:
-	•	Download, copy, or distribute content without having the legal right to do so.
-	•	Violate TikTok’s Terms of Service or applicable laws.
-	•	Circumvent content protection or security mechanisms.
-	•	Use the App for illegal, harmful, or abusive purposes.
+	• Download, copy, or distribute content without having the legal right to do so.
+	• Violate TikTok’s Terms of Service or applicable laws.
+	• Circumvent content protection or security mechanisms.
+	• Use the App for illegal, harmful, or abusive purposes.
 
 3. User Responsibility
 
@@ -21,12 +21,12 @@ You are solely responsible for ensuring that you have the legal right to downloa
 4. Subscriptions and Payments
 
 Some features require a subscription.
-	•	Payments are charged to your Apple ID account at confirmation of purchase.
-	•	Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
-	•	Your account will be charged for renewal within 24 hours before the current period ends.
-	•	You can manage or cancel subscriptions in your Apple ID account settings.
-	•	Deleting the App does not cancel your subscription.
-	•	Any unused portion of a free trial, if offered, is forfeited when a subscription is purchased.
+	• Payments are charged to your Apple ID account at confirmation of purchase.
+	• Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
+	• Your account will be charged for renewal within 24 hours before the current period ends.
+	• You can manage or cancel subscriptions in your Apple ID account settings.
+	• Deleting the App does not cancel your subscription.
+	• Any unused portion of a free trial, if offered, is forfeited when a subscription is purchased.
 
 All billing and refunds are handled by Apple in accordance with App Store policies.
 
